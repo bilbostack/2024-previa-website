@@ -20,7 +20,7 @@
     "gatsby-plugin-react-helmet": "^5.24.0",
     "gatsby-plugin-sass": "^5.24.0",
     "gatsby-source-filesystem": "^4.24.0",
-    "gatsby-transformer-remark": "^5.24.0",
+    "gatsby-transformer-remark": "^6.12.0",
     "node-sass": "^7.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
