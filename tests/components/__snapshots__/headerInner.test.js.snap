@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeaderInner renders correctly 1`] = `
+<div
+  class="jumbotron"
+  id="inner-header"
+>
+  <div
+    class="container"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col-sm-7"
+      >
+        <a
+          href="/"
+          title="Our awesome conference"
+        >
+          <img
+            alt="Our awesome conference"
+            id="logo"
+          />
+        </a>
+      </div>
+      <div
+        className="col-sm-5 text-center"
+      >
+        <p
+          class="lead"
+        />
+        <a
+          class="btn btn-primary btn-lg"
+          href="https://awesome_url_for_your_ticketing_platform.com"
+          role="button"
+        >
+          Tickets on sale!
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
