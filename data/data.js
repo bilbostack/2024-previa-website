@@ -4,7 +4,7 @@ module.exports =
     "logo": "/logo.png",
     "conference_name": "previa Bilbostack",
     "conference_title": "Bilbostack 2024",
-    "conference_claim": "Charlas de calentamiento previas a la 11ª Edición #bilbostack",
+    "conference_claim": "Charlas de calentamiento previas a la 12ª Edición de BilboStack",
     "conference_date": "Viernes 26 de Enero 2024, Zabalgune Eraikina (Edificio Ensanche), Bilbao",
     "conference_hashtag": "#la_previa_de",
     "conference_hashtag_url": "https://twitter.com/hashtag/bilbostack24",
