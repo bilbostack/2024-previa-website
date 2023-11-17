@@ -20,10 +20,10 @@ module.exports =
         ]
     },
     "header_banner": {
-        "cta_pre_text": "👀 Asegúrate de elegir: 'Evento previo a BilboStack - Viernes 26/01/2024' para acudir a la previa",
-        "cta_visible": false,
+        "cta_pre_text": "👀 Asegúrate de elegir: '#LaPrevia a BilboStack - Viernes 26/01/2024' para acudir a la previa",
+        "cta_visible": true,
         "cta_text": "¡Reserva tu entrada gratuita para la previa!",
-        "cta_post_text": "🚨 La entrada 'Evento previo a BilboStack - Viernes 26/01/2024' será sólo válida para el VIERNES previo a BilboStack 2024. Si quieres acudir también al evento principal el sábado, debes adquirir una 'Entrada General' 🚨",
+        "cta_post_text": "🚨 La entrada '#LaPrevia a BilboStack - Viernes 26/01/2024' será sólo válida para el VIERNES previo a BilboStack 2024. Si quieres acudir también al evento principal el sábado, debes adquirir una 'Entrada General' 🚨",
         "cta_url": "https://bilbostack2024.eventbrite.es/"
     },
     "home": {
