@@ -33,28 +33,66 @@ module.exports =
     },
     "speakers": [
         {
-            "visible": false,
-            "slug": "senyor-lobo",
-            "company": "yyy",
-            "image": "/speakers/senyor-lobo.jpg",
-            "name": "yyy",
-            "bio": "",
+            "visible": true,
+            "slug": "ari-jurado",
+            "company": "Desarrolladora de Software @ LIFULL Connect",
+            "image": "/speakers/ari-jurado.jpg",
+            "name": "Ari Jurado De Bilbao",
+            "bio": "Enfermera y psicopedagoga de Venezuela, ahora desarrolladora en Madrid. <br/>Comparto mis aprendizajes y, sobre todo, mis fallos en charlas y redes sociales. <br/>Soy WTM Ambassador y organizadora del WTM Madrid.",
             "social": {
-                "twitter": "https://twitter.com/yyy",
-                "linkedin": "https://www.linkedin.com/in/yyy/",
+                "twitter": "https://twitter.com/Ari_Reinventada",
+                "linkedin": "https://www.linkedin.com/in/arianejuradodebilbao/",
                 "github": "",
                 "gitlab": "",
                 "web": ""
             },
             "talk": {
-                "title": "yyy",
-                "description": ""
+                "title": "🚧 Coming soon",
+                "description": "🚧 Coming soon"
             }
         },
+        {
+            "visible": true,
+            "slug": "joserra-diaz",
+            "company": "Agile Coach. Partner @Tayari",
+            "image": "/speakers/joserra-diaz.jpg",
+            "name": "Jose Ramón Díaz",
+            "bio": "Programador de nacimiento. <br/>Desde hace más de 10 años, ayudando a personas y organizaciones a mejorar su conocimiento y aplicación de los principios y métodos Ágiles de desarrollo. <br/>Facilitador, fan de los Open Space, y de las nuevas culturas organizativas basadas en la auto-organización y la autoridad distribuida como Sociocracia 3.0.",
+            "social": {
+                "twitter": "https://twitter.com/joserra_diaz",
+                "linkedin": "https://www.linkedin.com/in/joseramondiaz/",
+                "github": "",
+                "gitlab": "",
+                "web": "https://wearetayari.com"
+            },
+            "talk": {
+                "title": "🚧 Coming soon",
+                "description": "🚧 Coming soon"
+            }
+        },
+        {
+            "visible": true,
+            "slug": "penyascalf5",
+            "company": "Peñascal F5",
+            "image": "/speakers/penyascalf5.jpg",
+            "name": "🕵🏻 TBD Speaker 🕵🏻",
+            "bio": "",
+            "social": {
+                "twitter": "https://twitter.com/penascalf5",
+                "linkedin": "https://www.linkedin.com/company/pe%C3%B1ascal-f5/",
+                "github": "",
+                "gitlab": "",
+                "web": "https://xn--peascalf5-m6a.org/index.html"
+            },
+            "talk": {
+                "title": "🚧 Coming soon",
+                "description": "🚧 Coming soon"
+            }
+        }
     ],
     "agenda": {
         "visible": false,
-        "time_slots": ["16:50-17:00", "17:00-17:35", "17:40-18:15", "18:20-18:55", "18:55-19:15"],
+        "time_slots": ["16:50-17:00", "17:00-17:35", "17:40-18:15", "18:20-18:55", "19:00-19:30"],
         "tracks":[
             {
                 "name": "Zabalbide Eraikina",
