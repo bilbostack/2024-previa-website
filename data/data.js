@@ -47,8 +47,8 @@ module.exports =
                 "web": ""
             },
             "talk": {
-                "title": "🚧 Coming soon",
-                "description": "🚧 Coming soon"
+                "title": "Experimentar el éxito y el síndrome del impostor",
+                "description": "Pasé de trabajar 3 años como frontend a trabajar de backend, de consultora a empresa de producto y con prácticas de eXtreme programming. <br/>Ha sido un cambio del 180° y un reto enorme que me costó muchos meses poder alcanzar y que me supuso mucha inseguridad y, a su vez, un bloqueo de conocimientos por una barrera que me puse delante que no me permitía sacar mi potencial. <br/><br/>En esta charla te quiero contar cómo fueron mis primeros meses en Lifull Connect, teniendo mucho Síndrome del impostor y cómo he logrado, con el apoyo de mi manager y equipo, lograr hacerle una grieta a esa barrera y comenzar a atravesarla."
             }
         },
         {
@@ -66,8 +66,8 @@ module.exports =
                 "web": "https://wearetayari.com"
             },
             "talk": {
-                "title": "🚧 Coming soon",
-                "description": "🚧 Coming soon"
+                "title": "Bits, Bugs y Aventuras",
+                "description": "Desde sistemas opresivos hasta brillantes momentos de colaboración, el mundo del software nos da una infinidad de situaciones locas, divertidas o desesperantes. <br/><br/>Trataré de explicar algunos modelos que me funcionan y he aprendido a lo largo de demasiados años trabajando en este mundo."
             }
         },
         {
@@ -75,7 +75,7 @@ module.exports =
             "slug": "penyascalf5",
             "company": "Peñascal F5",
             "image": "/speakers/penyascalf5.jpg",
-            "name": "🕵🏻 TBD Speaker 🕵🏻",
+            "name": "Alumn@s de Peñascal F5",
             "bio": "",
             "social": {
                 "twitter": "https://twitter.com/penascalf5",
@@ -91,8 +91,8 @@ module.exports =
         }
     ],
     "agenda": {
-        "visible": false,
-        "time_slots": ["16:50-17:00", "17:00-17:35", "17:40-18:15", "18:20-18:55", "19:00-19:30"],
+        "visible": true,
+        "time_slots": ["16:50-17:00", "17:00-17:40", "17:50-18:30", "18:40-19:20", "19:20-19:45"],
         "tracks":[
             {
                 "name": "Zabalbide Eraikina",
@@ -103,15 +103,15 @@ module.exports =
                     },
                     {
                         "type": "speaker",
-                        "content": "senyor-lobo"
+                        "content": "ari-jurado"
                     },
                     {
                         "type": "speaker",
-                        "content": "senyor-lobo"
+                        "content": "joserra-diaz"
                     },
                     {
                         "type": "speaker",
-                        "content": "senyor-lobo"
+                        "content": "penyascalf5"
                     },
                     {
                         "type": "text",
