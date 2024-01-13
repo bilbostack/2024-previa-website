@@ -145,62 +145,104 @@ module.exports =
     ],
     "sponsor_blocks": [
         {
-            "visible": false,
-            "name": "Patrocinador principal",
+            "visible": true,
+            "name": "Patrocinadores principales",
             "sponsors": [
                 {
                     "name": "Bilbao Ekintza",
                     "link": "https://www.bilbao.eus/BilbaoEkintza",
                     "image": "/sponsors/bilbao.png",
-                    "height_em": "16"
+                    "height_em": "12"
+                },
+                {
+                    "name": "Bizkaiko Foru Aldundia",
+                    "link": "https://www.bizkaia.eus/eu/hasiera",
+                    "image": "/sponsors/bfa.png",
+                    "height_em": "10"
                 },
             ]
         },
         {
-            "visible": false,
-            "name": "Patrocinadores Platino",
+            "visible": true,
+            "name": "Patrocinador Platino",
             "sponsors": [
                 {
-                    "name": "Bilbao Ekintza",
-                    "link": "https://www.bilbao.eus/BilbaoEkintza",
-                    "image": "/sponsors/bilbao.png",
-                    "height_em": "16"
+                    "name": "BBK Bootcamp",
+                    "link": "https://bbkbootcamps.thebridge.tech/",
+                    "image": "/sponsors/bbk-bootcamp.png",
+                    "height_em": "3"
                 },
             ]
         },
         {
-            "visible": false,
+            "visible": true,
             "name": "Patrocinadores Oro",
             "sponsors": [
                 {
-                    "name": "Bilbao Ekintza",
-                    "link": "https://www.bilbao.eus/BilbaoEkintza",
-                    "image": "/sponsors/bilbao.png",
-                    "height_em": "16"
+                    "name": "Manfred",
+                    "link": "https://www.getmanfred.com/",
+                    "image": "/sponsors/manfred.png",
+                    "height_em": "4"
                 },
-            ]
-        },
-        {
-            "visible": false,
-            "name": "Patrocinador guardería",
-            "sponsors": [
                 {
-                    "name": "Holaluz",
-                    "link": "https://www.holaluz.com",
-                    "image": "/sponsors/holaluz.png",
+                    "name": "Adaptavist",
+                    "link": "https://www.adaptavist.com/ ",
+                    "image": "/sponsors/adaptavist.png",
+                    "height_em": "3.5"
+                },
+                {
+                    "name": "Exeal",
+                    "link": "https://www.exeal.com/",
+                    "image": "/sponsors/exeal.png",
                     "height_em": "2.5"
                 },
+                {
+                    "name": "Openbank",
+                    "link": "https://www.openbank.es/ofertas-empleo-it",
+                    "image": "/sponsors/openbank.png",
+                    "height_em": "3"
+                },
+                {
+                    "name": "Libere Tech",
+                    "link": "https://liberetech.com/",
+                    "image": "/sponsors/liberetech.png",
+                    "height_em": "4.5"
+                },
+                {
+                    "name": "Kairos",
+                    "link": "https://www.kairosds.com/ ",
+                    "image": "/sponsors/kairos.png",
+                    "height_em": "2.5"
+                },  
             ]
         },
         {
-            "visible": false,
+            "visible": true,
+            "name": "Patrocinadores Bronce",
+            "sponsors": [
+                {
+                    "name": "Voxel",
+                    "link": "https://www.voxelgroup.net/es/",
+                    "image": "/sponsors/voxel.png",
+                    "height_em": "2.5"
+                },
+                {
+                    "name": "Izertis",
+                    "link": "https://www.izertis.com/es/",
+                    "image": "/sponsors/izertis.png",
+                    "height_em": "2"
+                },
+            ]
+        },
+        {
+            "visible": true,
             "name": "Colaboramos con",
             "sponsors": [
                 {
-                    "name": "Bilbao Ekintza",
-                    "link": "https://www.bilbao.eus/BilbaoEkintza",
-                    "image": "/sponsors/bilbao.png",
-                    "height_em": "16"
+                    "name": "Peñascal F5",
+                    "link": "http://peñascalf5.org/",
+                    "image": "/collaborations/penyascalf5.png",
+                    "height_em": "5"
                 },
             ]
         }
