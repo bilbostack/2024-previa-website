@@ -75,7 +75,7 @@ module.exports =
             "slug": "penyascalf5",
             "company": "Peñascal F5",
             "image": "/speakers/penyascalf5.jpg",
-            "name": "Alumn@s de Peñascal F5",
+            "name": "Coders de Peñascal F5",
             "bio": "",
             "social": {
                 "twitter": "https://twitter.com/penascalf5",
@@ -85,8 +85,8 @@ module.exports =
                 "web": "https://xn--peascalf5-m6a.org/index.html"
             },
             "talk": {
-                "title": "🚧 Coming soon",
-                "description": "🚧 Coming soon"
+                "title": "Dinámica colaborativa para <b>Coders</b>",
+                "description": "Si te interesa el mundo CODER, quieres conocer más humanos como tú... Pásate por aquí para participar y conocernos. <br/><br/>Compartamos la experiencia de iniciarse en el código y cómo hemos llegado hasta aquí. ¡Y atrévete a jugar un rato! <br/><br/>¿Serás capaz de resolver los enigmas que planteamos?"
             }
         }
     ],
