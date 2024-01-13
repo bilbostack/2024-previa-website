@@ -73,7 +73,7 @@ module.exports =
         {
             "visible": true,
             "slug": "penyascalf5",
-            "company": "Peñascal F5",
+            "company": "Peñascal F5 - WebDev Bootcamp",
             "image": "/speakers/penyascalf5.jpg",
             "name": "Coders de Peñascal F5",
             "bio": "",
